@@ -1,0 +1,24 @@
+* {
+    box-sizing:border-box; 
+} 
+
+h1 {
+    color: #ff4a00; 
+}
+
+h2 {
+    font-size: 24px;
+    color: #0021a5;
+}
+
+p {
+    font-family: arial, helvetica, sans-serif; 
+    font-size; 16px; 
+    line-height: 24px; 
+}
+
+img {
+    border: 5px solid #cccccc; 
+    padding: 20px;
+    width: 100%;
+}
