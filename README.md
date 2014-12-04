@@ -3,4 +3,4 @@ intristaning.github.io
 
 Hello World, welcome to my personal website
 
-I'll be posting and creating assignments here. 
+I'll be posting some pretty raw content here. 
