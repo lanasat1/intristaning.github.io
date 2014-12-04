@@ -15,7 +15,6 @@ nav {
     height: 120px;
     margin-top: 31px;
     margin-left: 22px;
-    margin-bottom: px;
     background: #FF4A00;
     display: inline-flex;
     font-size: 24px;
@@ -89,10 +88,6 @@ p {
 }
 
 
-.featured-snooze { /* feature description */
-    width: 130%;
-    float: right; 
-}
 aside {
         float: left;
          
